@@ -1,3 +1,4 @@
+<img src="./images/computer.gif" width="100%"/>
 ### Hi there 👋
 
 ## I'm Jo'
