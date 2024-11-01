@@ -27,20 +27,3 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-## Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)
-- [Filament Hero : Update!](https://dev.to/cdthomp1/filament-hero-update-1fg3)
-- [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
-- [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
-- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-<!-- BLOG-POST-LIST:END -->
-
-## My Stats
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
